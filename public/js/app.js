@@ -2,6 +2,8 @@
 
 
 
-$('#radio').click(() => $('.search_submit').removeAttr('disabled'));
+// $('#radio').click(() => $('.search_submit').removeAttr('disabled'));
+
+// console.log($('#radio').checkValidity());
 
 
